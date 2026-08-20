@@ -1,9 +1,6 @@
 ZeroFour by xumeimei UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 我們相信，一個真正的家，應該讓每位成員都感到自在——包括我們的毛孩。
 專注於將「空間美學」與「寵物需求」完美結合。我們嚴選具備設計感且兼顧寵物安全的居家用品，融入裝潢的貓砂盆，讓您不必在「居家風格」與「寵物生活」之間做妥協。和我們一起，為愛寵與自己築起最美的避風港。
 
-你可以在裡面挑選適合毛孩的用品
+你可以在裡面挑選適合毛孩的用品。
